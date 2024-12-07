@@ -7,7 +7,7 @@
 ---
 
 ## Contents
-[Articles](#articles)
+- [Articles](#articles)
 <!-- 
 - [Integrations](#integrations)
 - [Platform Support](#platform-support)
