@@ -8,7 +8,6 @@
 
 ## Contents
 - [Articles](#articles)
-- [Contributing](#contributing) 
 <!-- 
 - [Integrations](#integrations)
 - [Platform Support](#platform-support)
