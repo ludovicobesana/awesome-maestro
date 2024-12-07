@@ -8,6 +8,7 @@
 
 ## Contents
 - [Articles](#articles)
+- [Contributing](#contributing) 
 <!-- 
 - [Integrations](#integrations)
 - [Platform Support](#platform-support)
@@ -16,7 +17,6 @@
 - [Reporters](#reporters)
 - [Showcases](#showcases)
 - [Guides](#guides)
-- [Contribute](#contribute) 
 -->
 
 ---
@@ -28,6 +28,6 @@
 - [Streamline your mobile testing with Maestro](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
 
 
-## Contribute
+## Contributing
 
 Contributions are welcome! Read the [contribution guidelines](https://github.com/ludovicobesana/awesome-maestro/blob/master/CONTRIBUTING.md) before submitting your changes.
