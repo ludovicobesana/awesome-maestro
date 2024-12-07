@@ -7,7 +7,7 @@ Please note that this project follows the [Contributor Code of Conduct](code-of-
 
 ## Before You Start
 
-1. **Check Existing Issues:** Look at the [issues](#) to see if your idea is already discussed or open a new one.
+1. **Check Existing Issues:** Look at the [issues](https://github.com/ludovicobesana/awesome-maestro/issues) to see if your idea is already discussed or open a new one.
 2. **Fork the Repository:** Fork and clone the repo to work locally. [Guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 3. **Follow Coding Standards:** Use the project's conventions, format your code, and add tests for new features.
 
