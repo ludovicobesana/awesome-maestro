@@ -14,6 +14,7 @@
 - [Debugging Tools](#debugging-tools)
 - [Reporters](#reporters)
 - [Showcases](#showcases)
+- [Talks](#talks)
 - [Guides](#guides)
 - [Example Projects](#example-projects)
 - [Community Contributions](#community-contributions)
@@ -70,8 +71,10 @@
 - [Pokedex UI Testing](https://blog.mobile.dev/pokedex-ui-testing-series-getting-started-with-maestro-in-expo-react-native-part-1-73c6dfaa072)
 - [Music App Flutter Test Series](https://blog.mobile.dev/music-app-ui-testing-series-end-to-end-flutter-testing-with-maestro-part-2-dc38403ff7b6)
 
-## Guides
+## Talks
 - [Henry Moulton – React Native end-to-end testing with Maestro](https://youtu.be/uoCzBdFCoqc)
+
+## Guides
 - [Test Your Entire React Native App with Maestro](https://youtu.be/YTT346cHcVg)
 - [Painless Mobile Test Automation with Maestro?](https://youtu.be/EcO1QVtnqxw)
 - [Getting Started with Maestro](https://developers.maestro.io/start/)
