@@ -18,8 +18,6 @@
 - [Example Projects](#example-projects)
 - [Community Contributions](#community-contributions)
 - [Official Resources](#official-resources)
-- [Contributing](#contributing)
-
 
 ---
 
