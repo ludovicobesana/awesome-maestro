@@ -100,7 +100,6 @@
 - [YouTube Channel](https://www.youtube.com/@mobile-dev/)
 - [Slack Community](https://docs.maestro.dev/cloud/reference/slack-notifications)
 - [Twitter (X)](https://twitter.com/mobile__dev)
-- [Email Support](mailto:hello@mobile.dev)
 
 ## Contributing
 
