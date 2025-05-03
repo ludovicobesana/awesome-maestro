@@ -105,5 +105,3 @@
 ## Contributing
 
 Contributions are welcome! Read the [contribution guidelines](https://github.com/ludovicobesana/awesome-maestro/blob/master/CONTRIBUTING.md) before submitting your changes.
-
-https://raw.githubusercontent.com/ludovicobesana/ludovicobesana/d9298c688942172e06d44cc02d89719c6af31f49/images/banner.svg
