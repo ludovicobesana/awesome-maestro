@@ -119,4 +119,8 @@
 
 ## Contributing
 
+<<<<<<< HEAD
 Contributions are welcome! Please read the [contributing guidelines](https://github.com/ludovicobesana/awesome-maestro/blob/master/CONTRIBUTING.md) before submitting changes.
+=======
+Contributions are welcome! Read the [contribution guidelines](https://github.com/ludovicobesana/awesome-maestro/blob/master/CONTRIBUTING.md) before submitting your changes.
+>>>>>>> parent of dfd2b17 (fix: eof)
