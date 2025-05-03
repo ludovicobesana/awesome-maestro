@@ -1,4 +1,4 @@
-# Awesome Maestro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Maestro [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [<img src="maestro-logo.svg" align="right" width="100">](https://www.maestro.dev/)
 
