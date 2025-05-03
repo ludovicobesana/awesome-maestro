@@ -96,8 +96,6 @@
 - [Ilan Volow's Maestro Testing List](https://medium.com/@ilanvolow/list/maestro-testing-b8e39fc32e2a)
 
 ## Official Resources
-
-- [Official Site](https://maestro.dev)
 - [Documentation](https://docs.maestro.dev)
 - [YouTube Channel](https://www.youtube.com/@mobile-dev/)
 - [Slack Community](https://docs.maestro.dev/cloud/reference/slack-notifications)
