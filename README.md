@@ -1,5 +1,7 @@
 # Awesome Maestro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="maestro-logo.svg" align="right" width="100">](https://www.maestro.dev/)
+
 > A curated list of awesome tools, utilities, and projects using Maestro.
 
 [Maestro](https://github.com/mobile-dev-inc/maestro) is an open-source mobile UI testing framework designed to automate mobile applications with ease and efficiency.
