@@ -53,7 +53,7 @@
 - [Flow Recorder](https://docs.maestro.dev/cli/recording-your-flow)
 - [Make HTTP Requests](https://maestro.mobile.dev/advanced/javascript/make-http-s-requests)
 - [Custom Device Setup](https://maestro.mobile.dev/advanced/specify-a-device)
-- [Device Permissions Configuration](hhttps://docs.maestro.dev/advanced/configuring-permissions)
+- [Device Permissions Configuration](https://docs.maestro.dev/advanced/configuring-permissions)
 
 ## Debugging Tools
 
