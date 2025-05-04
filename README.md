@@ -74,6 +74,11 @@
 
 ## Talks
 - [Henry Moulton – React Native end-to-end testing with Maestro](https://youtu.be/uoCzBdFCoqc)
+- [Become a Maestro of Mobile Testing in 5 minutes - Jordan Dahnoun, Romain Rivollier](https://youtu.be/DoL5dyCQYBI)
+- [Tymoteusz Boba – Is React Native ready for Maestro?](https://youtu.be/NrEibTUxuzE)
+- [Lightning Talk / Maestro Automation / April 20th 2023 / Daniel Olatoye](https://youtu.be/qMXVvaQybTM)
+- [Maestro Magic: Creating UI Tests with Effortless Ease for Developers with Nishant Srivastava](https://youtu.be/s7f8QMtJSxw)
+- [RNR 262 - Maestro: The App-solute Solution for Mobile UI Testing](https://youtu.be/lLdSZM_l1v8)
 
 ## Guides
 - [Test Your Entire React Native App with Maestro](https://youtu.be/YTT346cHcVg)
