@@ -102,7 +102,7 @@
 ## Official Resources
 - [Documentation](https://docs.maestro.dev)
 - [YouTube Channel](https://www.youtube.com/@mobile-dev/)
-- [Slack Community](https://docs.maestro.dev/cloud/reference/slack-notifications)
+- [Slack Community](https://mobiledev.typeform.com/to/FelIEe8A)
 - [Twitter (X)](https://twitter.com/mobile__dev)
 
 ## Contributing
