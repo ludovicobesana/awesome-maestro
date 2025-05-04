@@ -80,7 +80,6 @@
 - [Painless Mobile Test Automation with Maestro?](https://youtu.be/EcO1QVtnqxw)
 - [Getting Started with Maestro](https://developers.maestro.io/start/)
 - [CI Setup for Maestro](https://maestro.mobile.dev/getting-started/running-flows-on-ci)
-- [Feature Guide](https://support.maestro.io/knowledge/feature-guide)
 - [Maestro + Flutter](https://docs.maestro.dev/platform-support/flutter)
 - [Maestro + React Native](https://docs.maestro.dev/platform-support/react-native)
 
