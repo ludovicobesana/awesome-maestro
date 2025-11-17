@@ -91,7 +91,7 @@
 ## Example Projects
 - [venkat2789/maestro-ui-automation](https://github.com/venkat2789/maestro-ui-automation)
 - [alexanderhodes/react-native-cli-maestro-example](https://github.com/alexanderhodes/react-native-cli-maestro-example)
-- [facebook/reactnative](https://github.com/facebook/react-native/blob/main/packages/rn-tester/.maestro)
+- [facebook/react-native](https://github.com/facebook/react-native/blob/main/packages/rn-tester/.maestro)
 
 ## Community Contributions
 
