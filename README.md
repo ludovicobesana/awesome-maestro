@@ -41,6 +41,7 @@
 - [BrowserStack Integration](https://www.browserstack.com/docs/app-automate/maestro)
 - [Webhooks for Test Automation](https://www.maestro.dev/blog/introducing-maestro-webhooks)
 - [Maestro MCP](https://github.com/mobile-dev-inc/maestro-mcp)
+- [Podium MCP](https://github.com/hoainho/podium-mcp) - MCP server for testing React Native (iOS & Android) apps on simulators via Maestro, with deep Redux state inspection.
 
 ## Platform Support
 
