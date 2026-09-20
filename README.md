@@ -34,6 +34,7 @@
 - [Podium MCP](https://github.com/hoainho/podium-mcp) - MCP server for testing React Native (iOS & Android) apps on simulators via Maestro, with deep Redux state inspection.
 - [MaestroGPT CLI](https://www.maestro.dev/blog/maestro-gpt-cli-chat) - AI assistant built into the Maestro CLI for generating and debugging flows.
 - [Slack Bot Reporting](https://www.maestro.dev/blog/introducing-maestro-slack-bot) - Official Slack bot that posts Maestro Cloud test run results to a channel.
+- [Qualflare Maestro Reporter](https://github.com/Qualflare/qualflare-maestro) - Wraps `maestro test` and turns its JUnit XML and debug output into a report with a step per command, screenshots on the step that took them, and tags from the flow's YAML.
 
 ## Showcases
 
