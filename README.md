@@ -72,8 +72,8 @@
 
 - [Documentation](https://docs.maestro.dev) - Official docs covering installation, flow syntax, the CLI, and CI setup.
 - [YouTube Channel](https://www.youtube.com/@mobile-dev/) - Official channel with product updates, tutorials, and conference talks.
-- [Slack Community](https://mobiledev.typeform.com/to/FelIEe8A) - Community Slack workspace for support and discussion.
-- [Twitter (X)](https://twitter.com/mobile__dev) - Official account for product updates and announcements.
+- [Slack Community](https://maestrodev.typeform.com/to/FelIEe8A) - Community Slack workspace for support and discussion.
+- [Twitter (X)](https://twitter.com/maestro__dev) - Official account for product updates and announcements.
 
 ## Contributing
 
