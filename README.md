@@ -27,6 +27,7 @@
 - [E2E Testing with Maestro](https://hybridheroes.de/blog/end-to-end-testing-maestro/) - Running end-to-end tests for React Native apps with Maestro.
 - [How to Use Maestro with GitHub Actions](https://medium.com/@joemcguinness/exploring-mobile-ui-testing-with-github-actions-and-maestro-4fa7b2620342) - Running Maestro flows automatically in a GitHub Actions workflow.
 - [Run one Maestro flow in every language](https://shotfleet.com/guides/maestro-one-flow-every-language) - iOS launch arguments, Android per-app locales, and four traps that give you English by mistake.
+- [Migrating from Appium to Maestro](https://momentic.ai/blog/migrate-appium-to-maestro) - Mapping Appium capabilities, locators and waits to Maestro flows, a login test converted step by step, and which tests to keep on Appium.
 
 ## Tools and Integrations
 
