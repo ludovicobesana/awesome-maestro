@@ -32,6 +32,7 @@
 ## Tools and Integrations
 
 - [BrowserStack Integration](https://www.browserstack.com/docs/app-automate/maestro) - Running Maestro flows on BrowserStack's real device cloud.
+- [TestMu AI Integration](https://www.testmuai.com/support/docs/hyperexecute-maestro-testing/) - Running Maestro flows on TestMu AI HyperExecute across real and virtual Android and iOS devices.
 - [Maestro MCP](https://github.com/mobile-dev-inc/maestro-mcp) - Official Model Context Protocol server that lets AI agents drive Maestro.
 - [Podium MCP](https://github.com/hoainho/podium-mcp) - MCP server for testing React Native (iOS & Android) apps on simulators via Maestro, with deep Redux state inspection.
 - [MaestroGPT CLI](https://www.maestro.dev/blog/maestro-gpt-cli-chat) - AI assistant built into the Maestro CLI for generating and debugging flows.
